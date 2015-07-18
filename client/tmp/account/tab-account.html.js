@@ -1,0 +1,1 @@
+!function(n){try{n=angular.module("convention")}catch(t){n=angular.module("convention",[])}n.run(["$templateCache",function(n){n.put("js/account/tab-account.html",'<ion-view view-title="Account">\n  <ion-content>\n    <ion-list>\n    <ion-toggle ng-model="settings.enableFriends">\n        Enable Friends\n    </ion-toggle>\n    </ion-list>\n  </ion-content>\n</ion-view>')}])}();
