@@ -17,21 +17,15 @@
 
 <a name="readme">
 ## Adding to the Readme
-Please don't hesitate to add to the readme. Anything that is valuable to the team should be added to either the client or server readme! Make a change, and put it through a pull request.
+Please don't hesitate to add to the readme. Anything that is valuable to the project should be added to either the client or server readme! Make a change, and put it through a pull request.
 
 <a name="contributing">
 ## Contributing
-When you are making a change, please name your branch the Jira Issue ID. ex) ADO-801. 
-
 Once you are complete your story, merge the current master into your branch, and make a pull request to the master. Everyone should feel free to hop into the pull request and offer suggestions.
-
-Once all suggestions are resolved, and everyone gives it the thumbs up, another team member will merge the code into master. Please do not merge your own branches in.
 
 <a name="translations">
 ## French Translations
 All words need to be translated. We are going to attempt to do these all within the controllers using the translate factory. This will reduce the number of watchers required for the file.
-
-At the end of each week (Friday), we need to give Mithila the current en.json. She will collect the french translations for the new words.
 
 <a name="styleguides">
 ## Style Guides
@@ -155,5 +149,3 @@ Run Basic lint style checks.
 <a name="misc">
 ## Misc
 
-### Device
-This app is currently set to only run on the Samsung Tab 3 Lite. To view the specs, please see : [here](http://www.samsung.com/ca/consumer/mobile-devices/tablets/others/SM-T110NDWAXAC).

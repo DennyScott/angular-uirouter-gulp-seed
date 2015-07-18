@@ -8,3 +8,4 @@ lib
 app/lib
 www/**/*
 !www/index.html
+tmp/
