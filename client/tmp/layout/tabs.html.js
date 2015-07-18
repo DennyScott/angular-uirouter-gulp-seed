@@ -1,1 +1,0 @@
-!function(n){try{n=angular.module("convention")}catch(l){n=angular.module("convention",[])}n.run(["$templateCache",function(n){n.put("js/layout/tabs.html",'<div layout="row">\n  <div flex class="md-primary">\n    [flex]\n  </div>\n  <div flex>\n    [flex]\n  </div>\n  <div flex hide-sm>\n    [flex]\n  </div>\n</div>')}])}();
